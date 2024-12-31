@@ -44,7 +44,7 @@
 
 ## 🔗 Let's Connect
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white)](https://twitter.com/@AbrarJa93813583)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrarjawad661@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?flat-square&logo=gmail&logoColor=white)](mailto:abrarjawad661@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@abrar32isnotavailable)
 
 
