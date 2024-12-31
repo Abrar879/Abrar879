@@ -1,23 +1,42 @@
-<h1 align="center">Hello I am Abrar</h1>
-<h3 align="center">A passionate developer from Bangladesh</h3>
+---
+name: Your Name
+user: YourUsername
+bio: "A passionate [Your Profession] with a focus on [Your Interests]. I love [Your Hobbies] and enjoy [Your Other Interests]." 
+location: Your City, Country
+website: https://[Your Website/Portfolio URL] (optional)
+twitter: YourTwitterHandle (optional)
+linkedin: YourLinkedInProfileURL (optional)
+---
 
-- 🔭 I’m currently working on **projects involving c++**
+**Hi there 👋**
 
-- 🌱 I’m currently learning **c++**
+I'm [Your Name], a [Your Profession] with a keen interest in [Your Key Technologies/Areas]. I'm always eager to learn new things and contribute to open-source projects. 
 
-- 👯 I’m looking to collaborate on **projects regarding c++**
+**My Interests:**
 
-- 🤝 I’m looking for help with **c++**
+* [Interest 1]
+* [Interest 2]
+* [Interest 3]
 
-- 📫 How to reach me **abrarjawad661@gmail.com or @abrar32 on discord**
+**Projects:**
 
-- ⚡ Fun fact **Life is like a sine graph**
+* [Project 1 Name] - [Short Description] (Link to Repository)
+* [Project 2 Name] - [Short Description] (Link to Repository)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@abrarja93813583" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abrarja93813583" height="30" width="40" /></a>
-<a href="https://instagram.com/abrar32isnotavailable" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abrar32isnotavailable" height="30" width="40" /></a>
-</p>
+**Skills:**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+* [Skill 1]
+* [Skill 2]
+* [Skill 3] 
+* ...
+
+**Looking to collaborate on:**
+
+* [Collaboration Area 1]
+* [Collaboration Area 2]
+
+**Connect with me:**
+
+* [Email Address] 
+
+I'm always open to new opportunities and discussions. Feel free to reach out!
