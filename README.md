@@ -43,7 +43,7 @@
 ---
 
 ## 🔗 Let's Connect
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=red)](https://twitter.com/@AbrarJa93813583)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@AbrarJa93813583)
 [![Email](https://img.shields.io/badge/Email-D14836?for-the-badge&logo=gmail&logoColor=blue)](mailto:abrarjawad661@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=green)](https://instagram.com/@abrar32isnotavailable)
 
