@@ -43,10 +43,12 @@
 ---
 
 ## 🔗 Let's Connect
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/@AbrarJa93813583)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=google-chrome&logoColor=white)](https://yourportfolio.com) (tbd)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abrarjawad661@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@AbrarJa93813583)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrarjawad661@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
+
+
 
 ---
 
-### 🎨 Made with ❤️ by [Your Name](https://github.com/yourusername)
+### Love you 💜
