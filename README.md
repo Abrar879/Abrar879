@@ -4,8 +4,8 @@
 
 ## 🚀 About Me
 - 🎓 **Field** | **Computer Science**
-- 🌱 Currently learning: **C++**
-- 🔭 Working on: **C++ projects**
+- 🌱 Currently learning: **Python and Javascrpt**
+- 🔭 Working on: **Web projects**
 
 ---
 
