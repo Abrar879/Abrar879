@@ -1,6 +1,6 @@
 # Hey, I'm Abrar 👋
 
-> ** Developer** · AI-Assisted Coding Enthusiast · Builder of things on the internet
+
 
 ---
 
