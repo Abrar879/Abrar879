@@ -36,16 +36,6 @@ I'm a developer who loves learning new stuffs constantly. Interested in artifici
 | 🔗  Science Club | Next.js + Supabase  | Full-stack app built for a science club at my school. |
 
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abrar879&show_icons=true&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abrar879&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
-
----
 
 ## 🤝 Let's Connect
 
