@@ -46,5 +46,5 @@ I'm a developer who loves learning new stuffs constantly. Interested in artifici
 ---
 
 <p align="center">
-  <i>"Ship it, iterate, improve — with a little help from AI."</i>
+  <i>"Curiousity is the raw commponent of innovation"</i>
 </p>
