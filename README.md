@@ -6,11 +6,8 @@
 
 ## 🧠 About Me
 
-I'm a  developer who loves combining modern frameworks with the power of AI-assisted coding to ship faster, smarter, and better. Whether it's a sleek landing page or a full-stack web app, I bring ideas to life with clean code and thoughtful design.
+I'm a developer who loves learning new stuffs constantly. Interested in artificial intelligence and drone technologies.
 
-- 🤖 Fluent in AI-assisted workflows — Copilot, Claude, Cursor, you name it
-- ⚡ I move fast without breaking (too many) things
-- 🌐 Comfortable across the full stack — frontend to backend
 
 ---
 
@@ -24,13 +21,10 @@ I'm a  developer who loves combining modern frameworks with the power of AI-assi
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Backend
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Tools & AI
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000?style=for-the-badge&logo=github&logoColor=white)
+### Tools
 ![Claude](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000?style=for-the-badge&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
@@ -39,8 +33,7 @@ I'm a  developer who loves combining modern frameworks with the power of AI-assi
 
 | Project | Stack | Description |
 |--------|-------|-------------|
-| 🔗  Science Club | Next.js + Supabase  | Full-stack app built with AI-assisted development |
-| 🔗 Atrio Sports| NextJS + Express | A dedicated sports panel website with proper backend system. (working on it ) |
+| 🔗  Science Club | Next.js + Supabase  | Full-stack app built for a science club at my school. |
 
 
 ---
